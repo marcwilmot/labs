@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-beans-01-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-beans/spring-beans-01-who-owns-the-bean/target/spring-beans-01-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

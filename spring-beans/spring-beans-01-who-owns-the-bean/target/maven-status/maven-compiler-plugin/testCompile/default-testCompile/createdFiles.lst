@@ -1,0 +1,8 @@
+lab01/Lab03_PrototypeDestructionLimitTest.class
+lab01/Lab01_SingletonIdentityTest.class
+lab01/Lab00_SmokeTest.class
+lab01/Lab02_PrototypeMultiplicityTest.class
+lab01/Lab05_FailurePathClosesResourcesTest.class
+lab01/Lab06_SingeltonDestructionCalled.class
+lab01/Lab06_PrototypeDestructionNotCalled.class
+lab01/Lab04_ExplicitOwnershipCleanupTest.class
